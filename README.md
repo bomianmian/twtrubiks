@@ -21,7 +21,30 @@
 
 ### 👨‍💻 Languages and Tools:
 
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.odoo.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Odoo_logo.svg/320px-Odoo_logo.svg.png" alt="odoo" width="65" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudio" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" width="40" height="40"/> </a> <a href="[https://flask.palletsprojects.com/](https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg)" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" alt="n8n" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://www.python.org" target="_blank"><img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30"/></a>
+<a href="https://www.odoo.com/" target="_blank"><img
+src="https://odoocdn.com/openerp_website/static/src/img/2016/logos/odoo_logo.svg" alt="odoo" height="30"/></a>
+<a href="https://zed.dev/" target="_blank"><img
+src="https://zed.dev/_next/static/media/logo_blue_no_gradient_padded.5a5468ff.svg"
+alt="zed" height="30"/></a>    
+<a href="https://www.linux.org/" target="_blank"><img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30"/></a>
+<a href="https://www.docker.com/" target="_blank"><img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="30"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg"
+alt="django" height="30"/></a>
+<a href="https://n8n.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" alt="n8n"
+height="30"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
+height="30"/></a>
+<a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins"
+height="30"/></a>
+<a href="https://www.postgresql.org" target="_blank"><img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"
+height="30"/></a>
+</p>
 
 <br />
 
@@ -31,7 +54,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=WnYzUr_1IXc"><img width="140px" src="https://i.ytimg.com/vi/WnYzUr_1IXc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=Zuyzh10D1vI"><img width="140px" src="https://i.ytimg.com/vi/Zuyzh10D1vI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Zuyzh10D1vI">你其實已經在用 Harness！Claude Code 閉環迴圈開發才是重點 + Codex Review #ClaudeCode #Harness #Codex #Anthropic #閉環</a><br/>Apr 17, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=WnYzUr_1IXc"><img width="140px" src="https://i.ytimg.com/vi/WnYzUr_1IXc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WnYzUr_1IXc">從 Claude Code 洩漏原始碼學到的事：快取省 90%、不用向量資料庫 #Claude #軟體工程 #API成本 #Anthropic</a><br/>Apr 6, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=JcDkIbQaLLg"><img width="140px" src="https://i.ytimg.com/vi/JcDkIbQaLLg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JcDkIbQaLLg">Claude Code Channels 實測！讓 Odoo ERP 直接跟 Claude 對話 #ClaudeCode #Channels #Odoo #MCP #ERP</a><br/>Mar 28, 2026</td></tr>
@@ -39,8 +64,6 @@
 <td><a href="https://www.youtube.com/watch?v=gJRUDBTmYAA">用 OpenSpec 做了一個公車追蹤器！Spec-Driven Development 完整心得 #OpenSpec #SDD #ClaudeCode #輕量 #vibe-coding</a><br/>Mar 19, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=yuqyR9tafBs"><img width="140px" src="https://i.ytimg.com/vi/yuqyR9tafBs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yuqyR9tafBs">Claude Code 越用越聰明的秘密！Auto Memory + 四個你沒用過的內建功能 #ClaudeCode #Anthropic #AutoMemory #Loop #Simplify</a><br/>Mar 16, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=yLgE0-dRNfk"><img width="140px" src="https://i.ytimg.com/vi/yLgE0-dRNfk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yLgE0-dRNfk">Claude Code 也能寄信、查行事曆？gws CLI 一個工具搞定 Google Workspace #gwsCLI #ClaudeCode #gemini #GoogleSheets</a><br/>Mar 12, 2026</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
