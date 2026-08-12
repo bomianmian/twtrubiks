@@ -56,7 +56,9 @@ height="30"/></a>
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=j9wuy120J9c"><img width="140px" src="https://i.ytimg.com/vi/j9wuy120J9c/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=2EZTm5TVfHA"><img width="140px" src="https://i.ytimg.com/vi/2EZTm5TVfHA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2EZTm5TVfHA">Zed 怎麼接上 Claude Code？一支影片看懂 ACP 協定 #Zed #ClaudeCode #ACP #Anthropic #MCP</a><br/>Aug 11, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=j9wuy120J9c"><img width="140px" src="https://i.ytimg.com/vi/j9wuy120J9c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=j9wuy120J9c">Odoo 19.4 AI 架構全換血！順便讓 Odoo 自己變成 MCP Server #Odoo #MCP #AIAgent #AgentSkills #ClaudeCode</a><br/>Aug 1, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ZHba80GN04A"><img width="140px" src="https://i.ytimg.com/vi/ZHba80GN04A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZHba80GN04A">Odoo 20 提前預習！saas-19.4 兩大新特性完整實測 #Odoo #ERP #PaperMuncher #irAccess #權限管理</a><br/>Jul 27, 2026</td></tr>
@@ -64,8 +66,6 @@ height="30"/></a>
 <td><a href="https://www.youtube.com/watch?v=Ykf6apBwVNQ">Claude Code 老手才知道的對話技巧！岔開、派分身、搜歷史 #ClaudeCode #Anthropic #Fork #radio #FocusView</a><br/>Jun 6, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=BfxDAO1M-Vc"><img width="140px" src="https://i.ytimg.com/vi/BfxDAO1M-Vc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BfxDAO1M-Vc">不用再切 Tab！Claude Code Agent View 一個畫面指揮多個 AI #ClaudeCode #AgentView #Anthropic #Parallel #Subagents</a><br/>Jun 1, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=pI-AX98dlvY"><img width="140px" src="https://i.ytimg.com/vi/pI-AX98dlvY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pI-AX98dlvY">11 天寫 75 萬行程式碼！Claude Code Dynamic Workflows 動態工作流完整實測 #Workflows #JavaScript #ultracode #token怪獸</a><br/>May 31, 2026</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
