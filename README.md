@@ -57,7 +57,7 @@ height="30"/></a>
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=2EZTm5TVfHA"><img width="140px" src="https://i.ytimg.com/vi/2EZTm5TVfHA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2EZTm5TVfHA">Zed 怎麼接上 Claude Code？一支影片看懂 ACP 協定 #Zed #ClaudeCode #ACP #Anthropic #MCP</a><br/>Aug 11, 2026</td></tr>
+<td><a href="https://www.youtube.com/watch?v=2EZTm5TVfHA">Zed 裡的 Claude Code 其實是 claude -p！ACP 協定完整拆解 #Zed #ClaudeCode #ACP #VSCode #stdio VSCode</a><br/>Aug 11, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=j9wuy120J9c"><img width="140px" src="https://i.ytimg.com/vi/j9wuy120J9c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=j9wuy120J9c">Odoo 19.4 AI 架構全換血！順便讓 Odoo 自己變成 MCP Server #Odoo #MCP #AIAgent #AgentSkills #ClaudeCode</a><br/>Aug 1, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ZHba80GN04A"><img width="140px" src="https://i.ytimg.com/vi/ZHba80GN04A/mqdefault.jpg"></a></td>
